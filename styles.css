@@ -53,6 +53,11 @@ body {
      cursor: pointer;
 }
 
+.search button:focus,
+.search button:hover {
+     background: #ABF7FF;
+}
+
 .search button img {
      width: 25px;
 }
